@@ -1,0 +1,27 @@
+# Don't ignore anything with dots
+*
+!*.*
+!*/
+
+# Binary and Image
+**.exe
+**.gif
+**.bmp
+**.ps
+**.eps
+**.aux
+**.bcf
+**.lof
+**.log
+**.lot
+**.nav
+**.out
+**.snm
+**.toc
+**.swp
+**.run.xml
+**.blg
+
+#Github OSX Ignore
+**.DS_Store
+
